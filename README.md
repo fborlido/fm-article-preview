@@ -29,7 +29,7 @@ Users should be able to:
 
 - Desktop:
 
-![](./screenshot/desktop.png)
+![](./screenshots/desktop.png)
 
 ### Links
 
